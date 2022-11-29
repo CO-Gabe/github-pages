@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# GitHub Pages
 
+This is an example of how my site will look!
